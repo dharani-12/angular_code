@@ -1,0 +1,12 @@
+form{
+    text-align: center; 
+    background-color: tomato;
+    margin: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+a{
+    color: aliceblue;
+}
