@@ -12,7 +12,9 @@ export class RegisterComponent implements OnInit {
   ){}
 
   ngOnInit(): void {
+    localStorage.setItem('flag', 'true');
     throw new Error('Method not implemented.');
+    
   }
 
   goback(){
